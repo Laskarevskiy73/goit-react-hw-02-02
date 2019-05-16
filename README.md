@@ -1,6 +1,6 @@
 ## Link on Homepage
 
-https://laskarevskiy73.github.io/goit-react-hw-02/
+https://laskarevskiy73.github.io/goit-react-hw-02-02/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
