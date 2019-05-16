@@ -6,7 +6,7 @@ import style from './Movies.module.css';
 const MovieGrid = ({ items }) => (
   <div className={style.movieGrid}>
     {items.length === 0 ? (
-      <span className={style.noResult}>No matching results!</span>
+      <span className={style.noResultSearch}>No matching results!</span>
     ) : (
       items.map(item => (
         <MovieGridItem
