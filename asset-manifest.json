@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-02/static/css/main.b2ce0bf8.chunk.css",
-    "main.js": "/goit-react-hw-02-02/static/js/main.49326f36.chunk.js",
-    "main.js.map": "/goit-react-hw-02-02/static/js/main.49326f36.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-02-02/static/js/runtime~main.52179980.js",
-    "runtime~main.js.map": "/goit-react-hw-02-02/static/js/runtime~main.52179980.js.map",
-    "static/js/2.b084e1fe.chunk.js": "/goit-react-hw-02-02/static/js/2.b084e1fe.chunk.js",
-    "static/js/2.b084e1fe.chunk.js.map": "/goit-react-hw-02-02/static/js/2.b084e1fe.chunk.js.map",
-    "index.html": "/goit-react-hw-02-02/index.html",
-    "precache-manifest.86ed3d2c822f6409249397811483fdf7.js": "/goit-react-hw-02-02/precache-manifest.86ed3d2c822f6409249397811483fdf7.js",
-    "service-worker.js": "/goit-react-hw-02-02/service-worker.js",
-    "static/css/main.b2ce0bf8.chunk.css.map": "/goit-react-hw-02-02/static/css/main.b2ce0bf8.chunk.css.map"
+    "main.css": "/goit-react-hw-02-page-search-movies/static/css/main.25bfbe3b.chunk.css",
+    "main.js": "/goit-react-hw-02-page-search-movies/static/js/main.9112da0c.chunk.js",
+    "main.js.map": "/goit-react-hw-02-page-search-movies/static/js/main.9112da0c.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-02-page-search-movies/static/js/runtime~main.3aac2bcd.js",
+    "runtime~main.js.map": "/goit-react-hw-02-page-search-movies/static/js/runtime~main.3aac2bcd.js.map",
+    "static/js/2.b084e1fe.chunk.js": "/goit-react-hw-02-page-search-movies/static/js/2.b084e1fe.chunk.js",
+    "static/js/2.b084e1fe.chunk.js.map": "/goit-react-hw-02-page-search-movies/static/js/2.b084e1fe.chunk.js.map",
+    "index.html": "/goit-react-hw-02-page-search-movies/index.html",
+    "precache-manifest.9a6206876a5a609cdca9fc6e0d5c2a36.js": "/goit-react-hw-02-page-search-movies/precache-manifest.9a6206876a5a609cdca9fc6e0d5c2a36.js",
+    "service-worker.js": "/goit-react-hw-02-page-search-movies/service-worker.js",
+    "static/css/main.25bfbe3b.chunk.css.map": "/goit-react-hw-02-page-search-movies/static/css/main.25bfbe3b.chunk.css.map"
   }
 }
